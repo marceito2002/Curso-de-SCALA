@@ -1,0 +1,11 @@
+# Ignores
+\.DS_Store
+\.classpath
+\.project
+\.settings
+\.metadata/
+\.RemoteSystemsTempFiles
+\.recommenders
+\.cache-main
+Servers/
+target/
